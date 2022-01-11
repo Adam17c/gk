@@ -1,0 +1,40 @@
+Instrukcja obługi:
+
+Podstawowe operacje:
+- wybieramy operację, klikając jeden z przycisków po prawej stronie
+- w celu wykonania wybranej operacji klikamy lewym przyciskiem myszy na płótno po lewej stronie
+(lub w przypadku przesuwania wierzchołka/krawędzi/wielokata/okręgu - przytrzymując lewy przycisk myszy poruszamy kursorem)
+- po zakończeniu operacji klikamy przycisk 'Zakończ'
+
+Edycja ograniczeń:
+- w celu dodania ograniczenia na krawędź/okrąg klikamy dwukrotnie na wybrany obiekt
+- w otwartym oknie dialogowym wybieramy ograniczenie, jakie chcemy nałożyć na wybrany obiekt
+- po zaznaczeniu wybranego ogranicznia krawędzi klikamy na drugi obiekt, wobec którego nakładamy ograniczenie (z wyjątkiem stałej długości),
+natomiast w przypadku okręgu klikamy przycisk 'OK'
+- w celu usunięcia ograniczeń z krawedzi klikamy przycisk 'Usuń relację' w oknie dialogowym krawędzi,
+natomiast w przypadku usunięcia ograniczeń z okręgu należy odznaczyć wszystkie checkboxy
+- edycja ograniczeń nie może odbywać się w czasie wykonywania jednej z podstawowych operacji
+
+Działanie ograniczeń:
+
+- stały środek okręgu 
+Środek okręgu zawsze pozostaje stały, nawet mimo prób poruszenia okręgiem
+- stały promień okręgu
+Promień okręgu zawsze pozostaje stały, nawet mimo prób jego zmiany.
+
+- stała długośc krawędzi
+Jeśli jeden z końców krawędzi zmieni położenie, drugi koniec również porusza się, żeby zachować stałą długość
+- równe długości dwóch krawędzi
+Jeśli jedna z krawędzi w parze zmieniła długość, długość jej pary również jest zmieniana o tyle samo.
+Dostosowywanie długości drugiej krawędzi odbywa się ze zmianą jej sąsiada bez ograniczeń lub jeśli taki nie istnieje - losowego sąsiada.
+- krawędź styczna do okręgu
+Okrąg, do którego ma być styczna krawędź, dostosowuje się do niej albo zmieniając swoje położenie, albo, jeśli jego środek jest stały,
+zmieniając promień.
+- krawędzie prostopadłe
+Jeśli koniec krawędzi w parze zmienił położenie, ustawienie jej pary zmienia się tak, żeby zachować prostopadłość.
+Położenie zmienia tylko jeden z końców sparowanej krawędzi.
+Wybór zmienianego końca odbywa się na takiej samej zasadzie, jak w przypdaku równej długości pary krawędzi.
+
+Po każdej zmianie położenia wierzchołka lub krawędzi sprawdzane jest, czy limity nałożone na sąsiadujące krawędzie (i na nią samą) nie 'zepsuły się'. 
+Jeśli tak, są 'naprawianie' - krawędzie są zmieiane tak, żeby znów spełniać nałożone limity.
+Jeśli 'naprawianie' spowodowało zmianę końców innych krawędzi z ograniczeniami, procedura jest powtarzana.

@@ -1,0 +1,130 @@
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.exe
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.deps.json
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.runtimeconfig.dev.json
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.dll
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\bin\Debug\net5.0-windows\ref\WpfApp1.dll
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.pdb
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.g.resources
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.dll
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\ref\WpfApp1.dll
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.pdb
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\EdgeDialog.g.cs
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\EdgeDialog.baml
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\CircleDialog.g.cs
+C:\Users\awodz\source\repos\GK1\Zadanie 1\WPF\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\CircleDialog.baml
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.exe
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.deps.json
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.dll
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\ref\WpfApp1.dll
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.pdb
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\CircleDialog.g.cs
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\EdgeDialog.g.cs
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\CircleDialog.baml
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\EdgeDialog.baml
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.g.resources
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.dll
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\ref\WpfApp1.dll
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.pdb
+C:\Users\Lenovo\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.exe
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.deps.json
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.runtimeconfig.dev.json
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.dll
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\ref\WpfApp1.dll
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.pdb
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\CircleDialog.g.cs
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\EdgeDialog.g.cs
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\CircleDialog.baml
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\EdgeDialog.baml
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.g.resources
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.dll
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\ref\WpfApp1.dll
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.pdb
+C:\Users\awodz\Desktop\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.exe
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.deps.json
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.runtimeconfig.dev.json
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.dll
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\ref\WpfApp1.dll
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.pdb
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\CircleDialog.g.cs
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\EdgeDialog.g.cs
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\CircleDialog.baml
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\EdgeDialog.baml
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.g.resources
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.dll
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\ref\WpfApp1.dll
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.pdb
+C:\Users\awodz\Desktop\gk\WpfApp1.2\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.exe
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.deps.json
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.runtimeconfig.dev.json
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.dll
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\bin\Debug\net5.0-windows\ref\WpfApp1.dll
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\bin\Debug\net5.0-windows\WpfApp1.pdb
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\CircleDialog.g.cs
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\EdgeDialog.g.cs
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\CircleDialog.baml
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\EdgeDialog.baml
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.g.resources
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.dll
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\ref\WpfApp1.dll
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.pdb
+C:\Users\awodz\Desktop\gk\WpfApp1.2 final\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.genruntimeconfig.cache
